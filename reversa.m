@@ -1,0 +1,1 @@
+function r = reversa(a)  r = [];  for j=length(a):-1:1    r = [r, a(j)];  endend      

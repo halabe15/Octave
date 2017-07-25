@@ -1,0 +1,1 @@
+function r = factorial(n1)  if n1 == 0    r = 1;  else    r = n1 * factorial(n1-1);  endend  

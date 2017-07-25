@@ -1,0 +1,1 @@
+function r = potencia(n1,n2)  r = 1;  for j=1:n2    r = multRec(r,n1);  endend function r = multiplica(a,b)  r = a*b;end  function r = multRec(n1,n2)  if n1==0    r = 0;  else    r = n2 + multRec(n1-1,n2);  endend  

@@ -1,0 +1,1 @@
+function suma()    a = input("Dame un numero: ")  b = input("Dame otro numero para sumarlo: ")  c = a + b;  disp(["La suma de ", num2str(a), " y ", num2str(b) , " es: ", num2str(c)]);end

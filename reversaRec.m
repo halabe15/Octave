@@ -1,0 +1,1 @@
+function v = reversaRec(a)  if length(a) == 0    v = a;  else    v = [v(

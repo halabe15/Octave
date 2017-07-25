@@ -1,0 +1,32 @@
+# Created by Octave 4.0.3, Tue Aug 16 11:21:02 2016 CDT <IsaacHalabe@MacBook-Pro-de-Isaac-Halabe.local>
+# name: A
+# type: matrix
+# rows: 3
+# columns: 3
+ 1 2 3
+ 4 5 6
+ 7 8 9
+
+
+# name: B
+# type: matrix
+# rows: 2
+# columns: 3
+ 1 2 3
+ 4 5 6
+
+
+# name: C
+# type: string
+# elements: 1
+# length: 11
+Hello World
+
+
+# name: ans
+# type: matrix
+# rows: 1
+# columns: 4
+ 9 -1 20 0.8
+
+
